@@ -1,3 +1,6 @@
 [submodule "comb_perm"]
 	path = comb_perm
 	url = https://github.com/alibizhan/comb_perm.git
+[submodule "pigeonhole-"]
+	path = pigeonhole-
+	url = https://github.com/alibizhan/pigeonhole-.git
